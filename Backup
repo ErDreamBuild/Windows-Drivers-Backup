@@ -1,0 +1,18 @@
+# You must be signed in as an administrator to be able to backup and restore drivers.
+
+# Command Prompt
+
+dism /online /export-driver /destination:"full path of folder"
+For example: dism /online /export-driver /destination:"F:\Drivers Backup"
+
+(OR)
+
+pnputil /export-driver * "full path of folder"
+For example: pnputil /export-driver * "F:\Drivers Backup"
+
+
+# Windows PowerShell
+
+Export-WindowsDriver -Online -Destination "full path of folder"
+
+For example: Export-WindowsDriver -Online -Destination "F:\Drivers Backup"
