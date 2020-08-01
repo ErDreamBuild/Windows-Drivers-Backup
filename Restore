@@ -1,0 +1,6 @@
+# You must be signed in as an administrator to be able to backup and restore drivers.
+
+#  Command Prompt
+
+pnputil /add-driver "full path of folder\*.inf" /subdirs /install /reboot
+For example: pnputil /add-driver "E:\Drivers Backup\*.inf" /subdirs /install /reboot
