@@ -12,10 +12,10 @@ This tutorial will show you how to back up and restore all 3rd party device driv
 # You must be signed in as an administrator to be able to backup and restore drivers.
 # Contents
 
-1 Option One   : To Back Up All Device Drivers in Command Prompt/
-2 Option Two   : To Back Up All Device Drivers in PowerShell/
-3 Option Three : To Restore a Device Driver Backup in Device Manager/
-4 Option Four  : To Restore All Device Drivers in Command Prompt/
+# 1 Option One   : To Back Up All Device Drivers in Command Prompt/
+# 2 Option Two   : To Back Up All Device Drivers in PowerShell/
+# 3 Option Three : To Restore a Device Driver Backup in Device Manager/
+# 4 Option Four  : To Restore All Device Drivers in Command Prompt/
 
 
 # OPTION ONE
